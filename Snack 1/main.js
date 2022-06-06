@@ -24,4 +24,4 @@ const biciclette = [
     }
 ]
 
-const {nome, peso} = biciclette;
+const {nome, peso} = bicileggera;
